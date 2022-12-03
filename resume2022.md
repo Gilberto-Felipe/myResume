@@ -8,10 +8,9 @@ I'm a Software Engineer with 3 years of experience in Fullstack positions. React
 
 ## Experience  
 
-**Web Developer | DPR Construction | 2021 - present [+1 year] | Remote**  
-- Collaborated in the development and maintenance of four ERP applications: a Human Resource Planning Management, a System Management for SMS, an Asset Management Inventory, and an Employee Portal to choose the asset. My tasks involve developing UI components, Web APIs, and database views. Technologies: **`Javascript/ES6`, `React`, `C#`, `.NET Core`, `SQL Server`, `Git-GitHub`, `Reactstrap`, `Material UI (MUI)`, `Formik`, `Chrome DevTools`**. 
-- Coordinated the update of documentation for integrations with third party applications. It was a continuous improvement effort every 6 months. 18 integrations were updated. 5 people participated.
-- Coordinated the migration of around 1000 jobs to Activebatch, a task scheduler. The effort lasted 9 months and involved 8 engineers from different teams.  
+**Web Developer | DPR Construction | 2021 - present [2 year] | Remote**  
+- Collaborated in the development and maintenance of four ERP applications: a Human Resource Planning Management, a System Management for SMS, an Asset Management Inventory, and an Employee Portal to choose the asset. My tasks involve developing UI components, Web APIs, and database views. Technologies: **`Javascript/ES6`, `React`, `C#`, `Web APIs with .Net Core and Entity Framework`, `SQL Server`, `Git-GitHub`, `Reactstrap`, `Material UI (MUI)`, `Formik`, `Chrome DevTools`**. 
+- Coordinated the migration of around 100 jobs to Activebatch, a task scheduler. The effort lasted 9 months and involved 8 engineers from different teams.  
 
 **Fullstack Web Developer | GHAPPS | 2019 - 2020 [+1 year] | Colima, Mexico**  
 - Collaborated in the development of an Information Management System. It provides information for Loro Fan, the mobile app of the University of Colima soccer team. Developed the database, the login, UI views, and the backend. The app has +100 downloads for Android. Technologies: **`HTML5`, `CSS`, `Javascript/ES6`, `JQuery`, `PHP`, `MySQL`, `Git-GitHub`, `Bootstrap`, `AdminLTE`**.  
