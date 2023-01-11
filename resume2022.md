@@ -4,7 +4,7 @@
 
 ## Summary  
 
-I'm a Software Engineer with 3 years of experience in Fullstack positions. **`React, C#, SQL Server/MySQL`**. I have experience in the development of Content Management Systems and ERP applications. 
+I'm a Software Engineer with 3 years of experience in Fullstack positions. **`React, C#, SQL Server/MySQL`**. I have experience in the development of Content Management Systems and ERP applications. I'm looking for backend/system roles.  
 
 ## Experience  
 
@@ -20,10 +20,8 @@ I'm a Software Engineer with 3 years of experience in Fullstack positions. **`Re
 - Collaborated in the development of a Content Management System. It provides information for Loro Fan, the mobile app of the University of Colima soccer team. Developed the database, the login, UI views, and the backend. The app has 100 downloads for Android.   
 
 **Freelance Web Developer | 2020 - present [+2 years] | Remote**  
+**`Wordpress, HTML5, CSS, Javascript/ES6, JQuery, PHP, MySQL, FTP`**
 - Designed, developed, deployed, and maintained a website for a company. My client increased their web presence by 100%.  
-
-**Spanish Teacher as a Foreign Language | IH - BKC Moscow | 2015 - 2016 | Moscow, Russia**  
-**Teacher of Philosophy and Humanities | 8 years of experience | Mexico and Colombia**  
 
 ## Education  
 **B.S. in Software Engineering | University of Colima | 2017-2021 | Colima, Mexico**  
